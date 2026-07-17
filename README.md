@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <p>
-  I am a <b>Systems Engineer - Linux & Cloud Infrastructure</b> focused on designing, automating, and operating scalable, secure, and resilient cloud infrastructure. Passionate about cloud-native technologies, automation, and emerging innovations that improve platform reliability and engineering efficiency.
+  I am a <b>Cloud Infrastructure Engineer & Platform Engineer</b> focused on designing, automating, and operating scalable, secure, and resilient cloud infrastructure. Passionate about cloud-native technologies, automation, and emerging innovations that improve platform reliability and engineering efficiency.
 </p>
 
 <p>
